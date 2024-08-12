@@ -1,0 +1,19 @@
+.center{
+  margin-left:15%;
+  width: 75%;
+  height: 75%;
+}
+
+
+body{
+  background-color:black !important;
+  color:yellow !important;
+}
+
+.img{
+  width: 100%;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary{
+  color:red !important;
+}
